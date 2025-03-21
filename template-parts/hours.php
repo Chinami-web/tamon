@@ -53,6 +53,13 @@ hours
             <p class="download__txt">初めて受診される方は、事前に問診票をダウンロードしてご記入ください。 <br>初診時にお持ちいただくと、待ち時間が短縮されます。</p>
             <a href="<?php echo do_shortcode('[theme_url]'); ?>/assets/pdf/monshinhyo.pdf" target="_blank" rel="noopener" class="btn btn--primary btn--lg">問診票PDFダウンロード</a>
           </div> -->
+          <div class="cashMethod">
+            <p class="cashMethod__ttl">当院ではクレジットカードや電子決済へ対応しています</p>
+            <figure class="cashMethod__image">
+              <img src="<?php echo do_shortcode('[theme_url]'); ?>/assets/img/cash/cash01.png" alt="visa" width="200" height="100" loading="lazy">
+            </figure>
+          </div>
+          <!-- /cashMethod -->
         </div><!-- /clinic -->
       </div><!-- /hours__wrap -->
     </div><!-- /inner -->
