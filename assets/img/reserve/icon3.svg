@@ -1,0 +1,18 @@
+<svg id="icon3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.374" height="32.986" viewBox="0 0 27.374 32.986">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_5917" data-name="長方形 5917" width="27.374" height="32.986" fill="none" stroke="#3c4a6e" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_15543" data-name="グループ 15543" clip-path="url(#clip-path)">
+    <path id="パス_32055" data-name="パス 32055" d="M33,14.735v22.69a1.2,1.2,0,0,1-1.187,1.187H8.187A1.2,1.2,0,0,1,7,37.425V8.187A1.19,1.19,0,0,1,8.187,7H25.265" transform="translate(-6.313 -6.313)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="パス_32056" data-name="パス 32056" d="M200.872,14.735h-6.549a1.19,1.19,0,0,1-1.187-1.187V7Z" transform="translate(-174.184 -6.313)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_6718" data-name="線 6718" x2="16.216" transform="translate(5.419 19.302)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_6723" data-name="線 6723" x2="5" transform="translate(5.419 14.489)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_6724" data-name="線 6724" x2="5" transform="translate(5.419 10.489)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_6725" data-name="線 6725" y1="4" transform="translate(5.419 10.489)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_6726" data-name="線 6726" y1="4" transform="translate(10.419 10.489)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_6719" data-name="線 6719" x2="16.216" transform="translate(5.419 23.007)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="線_6720" data-name="線 6720" x2="16.216" transform="translate(5.419 26.713)" fill="none" stroke="#3c4a6e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

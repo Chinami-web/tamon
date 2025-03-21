@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="65" height="65" viewBox="0 0 65 65">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_5722" data-name="長方形 5722" width="36" height="35.412" fill="none" stroke="#fff" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="treatment2-red" transform="translate(-280 -2474.221)">
+    <circle id="楕円形_277" data-name="楕円形 277" cx="32.5" cy="32.5" r="32.5" transform="translate(280 2474.221)" fill="#b90725"/>
+    <g id="グループ_15470" data-name="グループ 15470" transform="translate(294.5 2489.015)">
+      <g id="グループ_15469" data-name="グループ 15469" clip-path="url(#clip-path)">
+        <path id="パス_31852" data-name="パス 31852" d="M8.655,62.429C3.75,55,10.637,42.278,17.685,48.9c2.777,1.678,8.127.441,8.19-3.488.041-2.572-1.121-3.673-1.121-6.217,0-4.588,3.442-8.307,7.688-8.307,6.559,0,9.128,8.823,9.128,14.576,0,8.757-7.934,15.857-15.235,15.857s-8.476-2.525-12.37-7.383c-2.52-.551-3.281,6.054.166,7.313" transform="translate(-6.285 -27.732)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="パス_31853" data-name="パス 31853" d="M171.421,7c.766,2.936,1.763,4.288,3.041,5.059" transform="translate(-153.912 -6.285)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <path id="パス_31854" data-name="パス 31854" d="M124.938,11.99c1.173,6.909,4.085,8.21,6.1,12.734" transform="translate(-112.177 -10.765)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
